@@ -1,0 +1,19 @@
+.body {padding: 0; margin: 0;}
+
+.Portada {height:750px; background-color: black; width: 100%;}
+.lineas { height:750px}
+.titulo {font-size: 40px; color: white; font-family: 'Helvetica Neue', sans-serif; font-weight: bolder; padding: 10px ; padding-top: 1px; width: 100%; position: absolute; margin-left: 950px;}
+.index {font-family: 'Helvetica Neue', sans-serif; font-size: 20px; font-weight:400; padding: 960px; position: absolute ;color: white; padding-top: 130px; width: 100%;}
+
+.index a {text-decoration: none; color: white;}
+
+.index a:hover {background-color: #F683CE;}
+
+.subti1 { font-size: 40px; color: black; font-family: 'Helvetica Neue', sans-serif; font-weight: bolder; margin-top: 40px; margin-left: 20px;}
+
+.datart1 { height: 170px; margin-left: 20px; padding-top: 5px;}
+.datart2 {height: 170px; margin-left: 20px; padding-top: 5px;}
+
+
+.definicion1 {font-family: 'Helvetica Neue'; color: black; font-size: 15px; margin-left: 20px; width: 20%;}
+.definicion2 {font-family: 'Helvetica Neue'; color: black; font-size: 15px; margin-left: 350px; width: 20%; margin-top: -335px;}
