@@ -9,11 +9,4 @@
 
 .index a:hover {background-color: #F683CE;}
 
-.subti1 { font-size: 40px; color: black; font-family: 'Helvetica Neue', sans-serif; font-weight: bolder; margin-top: 40px; margin-left: 20px;}
-
-.datart1 { height: 170px; margin-left: 20px; padding-top: 5px;}
-.datart2 {height: 170px; margin-left: 20px; padding-top: 5px;}
-
-
-.definicion1 {font-family: 'Helvetica Neue'; color: black; font-size: 15px; margin-left: 20px; width: 20%;}
-.definicion2 {font-family: 'Helvetica Neue'; color: black; font-size: 15px; margin-left: 350px; width: 20%; margin-top: -335px;}
+.subti1 { font-size: 40px; color: black; font-family: 'Helvetica Neue', sans-serif; font-weight: bolder; 
